@@ -1,4 +1,4 @@
-# Automan
+# Automan（工具人）
 pythonGUI自动化工具 Python GUI automation tool 
 
 
